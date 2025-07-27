@@ -23,7 +23,7 @@ const Hero = () => {
             </div>
             <div className='flex'>
                 <div className='flex-1  bg-white'>
-                    <img src={"/hero.png"} className='md:h-screen md:w-screen object-cover mt-20 xl:pt-70 blur-xs md:blur-md' />
+                    <img src={"/hero.png"} className='md:h-screen md:w-screen object-cover mt-5 xl:pt-70 blur-xs md:blur-md' />
 
                 </div>
                 <div className='flex-1  '>
