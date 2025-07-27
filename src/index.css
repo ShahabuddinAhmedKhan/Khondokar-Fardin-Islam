@@ -1,2 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 @import "tailwindcss";
 @plugin "daisyui";
+
+/* Define Anton font using @theme */
+@theme {
+  --font-anton: "Anton", sans-serif;
+}
