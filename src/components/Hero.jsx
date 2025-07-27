@@ -27,7 +27,7 @@ const Hero = () => {
 
                 </div>
                 <div className='flex-1  '>
-                    <img src={"/blackBg.jpg"} className='md:h-screen md:w-screen object-cover xl:pt-70 blur-lg md:blur-md' />
+                    
 
                 </div>
             </div>
